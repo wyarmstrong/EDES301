@@ -1,2 +1,2 @@
 # EDES301
-Introduction to Practical Electrical Engineering
+Repository for EDES301 course work
