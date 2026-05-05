@@ -1,0 +1,18 @@
+Designator,Manufacturer,MPN,Quantity,Description
+U2,BeagleBoard,PocketBeagle,1,Single-board computer ARM Cortex-A8 1GHz 512MB RAM
+U1,HS (Hansheng),HS24S010B,1,1.8 inch SPI TFT LCD Display
+USB1,SHOU HAN,TYPE-C 16PIN 2MD,1,USB-C 16-pin connector
+R1,ALPSALPINE,RK09K1110A0J,1,10k Ohm Potentiometer X-axis
+R2,ALPSALPINE,RK09K1110A0J,1,10k Ohm Potentiometer Y-axis
+LED1,XINGLIGHT,XL-C3014SURC,1,Red LED SMD 3014
+LED2,XINGLIGHT,XL-C3014UBC,1,Blue LED SMD 3014
+LED3,XINGLIGHT,XL-C3014UGC,1,Green LED SMD 3014
+SW1,SAMZO,2011000102,1,Tactile switch 6-pin Reset
+SW2,SAMZO,2011000102,1,Tactile switch 6-pin Color Change
+R3,Generic,RC0603FR-071KL,1,1k Ohm 0603 Resistor LED1 current limit
+R4,Generic,RC0603FR-071KL,1,1k Ohm 0603 Resistor LED2 current limit
+R5,Generic,RC0603FR-071KL,1,1k Ohm 0603 Resistor LED3 current limit
+R6,Generic,RC0603FR-0710KL,1,10k Ohm 0603 Resistor SW1 pull-up
+R7,Generic,RC0603FR-0710KL,1,10k Ohm 0603 Resistor SW2 pull-up
+R8,Generic,RC0603FR-075K1L,1,5.1k Ohm 0603 Resistor USB-C CC1 pull-down
+R9,Generic,RC0603FR-075K1L,1,5.1k Ohm 0603 Resistor USB-C CC2 pull-down
