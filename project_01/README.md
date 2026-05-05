@@ -37,23 +37,6 @@ TXS B2 → 100Ω → MOSFET gate
 MOSFET source → GND, drain → pump negative
 1N4007 across pump (cathode to +, anode to -)
 
-## Software Setup
-
-The PocketBeagle has no internet so install packages from your host machine first.
-
-On your computer:
-```
-pip download smbus2 RPLCD -d ./packages
-scp -r ./packages debian@192.168.7.2:/home/debian/
-```
-
-On PocketBeagle:
-```
-sudo python3.11 -m pip install --no-index --find-links=/home/debian/packages smbus2 RPLCD
-cd /opt/source/adafruit-beaglebone-io-python
-sudo python3.11 setup.py install
-```
-
 ## Running
 
 Copy files over:
